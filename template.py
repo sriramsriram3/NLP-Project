@@ -14,7 +14,7 @@ folder_list=[
     'src/logging/__init__.py',
     'src/logging/logger.py',
     'src/exception/__init__.py',
-    'src/exception/custom_exception.py',
+    'src/exceptions/exception.py',
     'setup.py',
     'setup.cfg',
     'requirements.txt',
